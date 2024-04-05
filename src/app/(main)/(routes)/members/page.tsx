@@ -20,7 +20,7 @@ const Page = (props: Props) => {
 
   return (
     <main className='n-container py-6'>
-      <nav className='bg-gray-200 py-3 flex overflow-x-scroll whitespace-nowrap'>
+      <nav className='bg-gray-200 py-3 flex overflow-x-auto whitespace-nowrap'>
         <ul className='!flex-row'>
           {committee.map((item,i)=>(
             <li key={i} className='inline-block px-1 mx-2 cursor-pointer' onClick={()=>setActiveNavItem(i)}>
