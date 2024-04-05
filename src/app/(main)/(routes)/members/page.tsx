@@ -8,7 +8,7 @@ import clsx from 'clsx';
 
 type Props = {}
 
-const page = (props: Props) => {
+const Page = (props: Props) => {
   const [activeNavItem, setActiveNavItem] = useState(0);
   const [memberList, setmemberList] = useState(committee[0].members);
   
@@ -43,4 +43,4 @@ const page = (props: Props) => {
   )
 }
 
-export default page;
+export default Page;

@@ -4,7 +4,7 @@ import React from 'react'
 
 type Props = {}
 
-const page = (props: Props) => {
+const Page = (props: Props) => {
   return (
     <main className='n-container'>
       <h1 className="font-bold border-b-2 uppercase text-center pt-8 pb-2 text-slate-800">Our Programs</h1>
@@ -20,4 +20,4 @@ const page = (props: Props) => {
   )
 }
 
-export default page
+export default Page
