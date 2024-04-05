@@ -34,9 +34,9 @@ const MemberCard = ({data}: Props) => {
         {role}
       </h3>
       <ul className="mt-4">
-          <li className="inline-block mr-4"><Link href={email?`mailto:${email}`:"#"} target='_blank' className="text-red-500"><MdEmail className='text-2xl'/></Link></li>
-          <li className="inline-block mr-4"><Link href={facebook} target='_blank' className="text-[#1877F2]"><IoLogoFacebook className='text-2xl'/></Link></li>
-          <li className="inline-block mr-4"><Link href={linkedIn} target='_blank' className="text-[#0077B5]"><IoLogoLinkedin className='text-2xl'/></Link></li>
+          <li className="inline-block mr-4"><Link href={email?`mailto:${email}`:"#"} target={email&&'_blank'} className="text-red-500"><MdEmail className='text-2xl'/></Link></li>
+          <li className="inline-block mr-4"><Link href={facebook} target={(facebook!=='#')?'_blank':""} className="text-[#1877F2]"><IoLogoFacebook className='text-2xl'/></Link></li>
+          <li className="inline-block mr-4"><Link href={linkedIn} target={(linkedIn!=='#')?'_blank':''} className="text-[#0077B5]"><IoLogoLinkedin className='text-2xl'/></Link></li>
         </ul>
     </div>
 </div>
