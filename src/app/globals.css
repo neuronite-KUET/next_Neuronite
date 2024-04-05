@@ -57,7 +57,7 @@
     @apply sticky top-0 shadow-sm
   }
   .card-details{
-    @apply  transition-all translate-y-2 ;
+    /* @apply  transition-all translate-y-2 ; */
 
   }
 }

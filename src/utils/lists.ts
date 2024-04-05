@@ -37,16 +37,51 @@ export const programList=[
   },
 ]
 
-export const memberList=[
+export const comittee=[
+  
   {
-    name:'Md. Sabbir Rahman Akash',
-    designation:"Ex-President",
-    imgUrl:'/images/python.png'
+    comittee:'2024-2025',
+    members:
+    [
+      {
+        name:'Tarik Anam Tonmoy',
+        role:"President",
+        imgUrl:'/images/python.png',
+        email:'xyz@gmail.com',
+        facebook:"https:/fb.com/profile",
+        linkedIn:"https:/fb.com/profile"
+      },
+      {
+        name:'Tarik Anam Tonmoy',
+        role:"President",
+        imgUrl:'/images/python.png',
+        email:'xyz@gmail.com',
+        facebook:"https:/fb.com/profile",
+        linkedIn:"https:/fb.com/profile"
+      },
+    ]
   },
   {
-    name:'Tarik Anam Tonmoy',
-    designation:"President",
-    imgUrl:'/images/python.png'
+    comittee:'2023-2024',
+    members:
+    [
+      {
+        name:'Tarik Anam Tonmoy',
+        role:"President",
+        imgUrl:'/images/python.png',
+        email:'xyz@gmail.com',
+        facebook:"https:/fb.com/profile",
+        linkedIn:"https:/fb.com/profile"
+      },
+      {
+        name:'Tarik Anam Tonmoy',
+        role:"President",
+        imgUrl:'/images/python.png',
+        email:'xyz@gmail.com',
+        facebook:"https:/fb.com/profile",
+        linkedIn:"https:/fb.com/profile"
+      },
+    ]
   }
 ]
 

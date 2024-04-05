@@ -1,0 +1,721 @@
+[
+  {
+    "session": "2024-2025",
+    "members": [
+      {
+        "name": "Dr. Md. Abul Hashem",
+        "role": "Chairman",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Muhammad Naimul Hasan",
+        "role": "Moderator",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Nasim Haider Quoraishi",
+        "role": "Board of Advisors",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Abdul Ahad",
+        "role": "Board of Advisors",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Alvi Rownok",
+        "role": "Board of Advisors",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Tarik Tonmoy",
+        "role": "President",
+        "imgUrl": "",
+        "email": "tonmoy1919005@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Shihab Uddin",
+        "role": "Vice President",
+        "imgUrl": "",
+        "email": "uddin1919048@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Sadman Sadik Shovon",
+        "role": "General Secretary",
+        "imgUrl": "",
+        "email": "sadik1919043@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Amrito Mohonto Pial",
+        "role": "Head of Instructors",
+        "imgUrl": "",
+        "email": "pial1919007@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Istiak Ibon",
+        "role": "Head of IT & Resources",
+        "imgUrl": "",
+        "email": "mehhbub1919012@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Rifa Tamanna",
+        "role": "Head of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "tamanna1919060@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md Rakibul Islam",
+        "role": "Head of Event Management",
+        "imgUrl": "",
+        "email": "hasan1919025@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Zahid Hasan Rifat",
+        "role": "Senior Executive of Instructors",
+        "imgUrl": "",
+        "email": "contact.zhrifat@gmail.com",
+        "facebook": "https://www.facebook.com/share/aeagC6zA8TDh1bxf/",
+        "linkedIn": "https://www.linkedin.com/in/zh-rifat/"
+      },
+      {
+        "name": "Md. Mahidul Islam Mahir",
+        "role": "Senior Executive of Instructors",
+        "imgUrl": "",
+        "email": "mahidulmahir759@gmail.com",
+        "facebook": "#",
+        "linkedIn": "https://www.linkedin.com/in/mahidul-islam-mahir"
+      },
+      {
+        "name": "Shihab Ahmed",
+        "role": "Senior Executive of Instructors",
+        "imgUrl": "",
+        "email": "ahemed2019029@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Foyez Ahmed",
+        "role": "Senior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "ahmmed2019025@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Taiba Jannat",
+        "role": "Senior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "zannat2019057@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md. Sajjad Hossain",
+        "role": "Senior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "hossain2019017@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Rakib Uddin",
+        "role": "Senior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "uddin2019011@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Sohana Akter",
+        "role": "Senior Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "akter2019027@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Shantonu Roy",
+        "role": "Senior Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "ray2019042@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Shiddhartha Dhar",
+        "role": "Senior Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "dhar2019055@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md Rofiqul Islam Robin",
+        "role": "Senior Executive of Event Management",
+        "imgUrl": "",
+        "email": "islam2019019@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Asad Mahmud Surid",
+        "role": "Senior Executive of Event Management",
+        "imgUrl": "",
+        "email": "surid2019035@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Mahmudul Hasan Shimanto",
+        "role": "Senior Executive of Event Management",
+        "imgUrl": "",
+        "email": "shimanto2019039@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Mahady Hasan Mintu",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "mintu2119020@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Robiul Islam",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "islam2119024@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Arafat Anan Rohit",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "rohit2119036@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Tarbin Leen Rozario",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "rozario2119028@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Naim Islam",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "islam2119040@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Piash Alam",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "alam2119055@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Rhydita Farnaz",
+        "role": "Junior Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "farnaz2119041@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Zannatul Rifat",
+        "role": "Junior Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "rifat2119009@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Sabah Musarat Poushi",
+        "role": "Junior Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "poushi2119014@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Ananna Krishna Roy",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "roy2119006@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Shakil Ahmed Bijoy",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "bijoy2119025@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Rayhan Uzzaman Tonmoy",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "tonmoy1919005@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      }
+    ]
+  },
+
+  {
+    "session": "2023-2024",
+    "members": [
+      {
+        "name": "Dr. Md. Abul Hashem",
+        "role": "Chairman",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Muhammad Naimul Hasan",
+        "role": "Moderator",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Nasim Haider Quoraishi",
+        "role": "Board of Advisors",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Abdul Ahad",
+        "role": "Board of Advisors",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Alvi Rownok",
+        "role": "Board of Advisors",
+        "imgUrl": "",
+        "email": "",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md. Sabbir Rahman Akash",
+        "role": "President",
+        "imgUrl": "",
+        "email": "akash1819020@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Afsana Akhter Mimi",
+        "role": "Vice President",
+        "imgUrl": "",
+        "email": "mimi1819052@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Arifuzzaman Arif",
+        "role": "General Secretary",
+        "imgUrl": "",
+        "email": "arif1819015@stud.kuet.ac.",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Haran Ur Rashid Tonmoy",
+        "role": "Head of Instructors",
+        "imgUrl": "",
+        "email": "rashid1819042@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Dhruvo Sarkar",
+        "role": "Head of IT & Resources",
+        "imgUrl": "",
+        "email": "sarker1819040@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Alfie Shahriar Ador",
+        "role": "Head of Press & Publication",
+        "imgUrl": "",
+        "email": "shariar1819021@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Muhmmad Shakib Hossain",
+        "role": "Head of Event Management",
+        "imgUrl": "",
+        "email": "hossain1819018@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Tarik Tonmoy",
+        "role": "Senior Executive of Instructors",
+        "imgUrl": "",
+        "email": "tonmoy1919005@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Sadman Sadik Shovon",
+        "role": "Senior Executive of Instructors",
+        "imgUrl": "",
+        "email": "sadik1919043@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Amrito Mohonto Pial",
+        "role": "Senior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "pial1919007@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Istiak Ibon",
+        "role": "Senior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "mehhbub1919012@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Shihab Uddin",
+        "role": "Senior Executive of Press & Publication",
+        "imgUrl": "",
+        "email": "uddin1919048@stud.kuet.ac.",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Rakibul Islam",
+        "role": "Senior Executive of Event Management",
+        "imgUrl": "",
+        "email": "hasan1919025@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Rifa Tamanna",
+        "role": "Senior Executive of Event Management",
+        "imgUrl": "",
+        "email": "tamanna1919060@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Zahid Hasan Rifat",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "contact.zhrifat@gmail.com",
+        "facebook": "https://www.facebook.com/share/aeagC6zA8TDh1bxf/",
+        "linkedIn": "https://www.linkedin.com/in/zh-rifat/"
+      },
+
+      {
+        "name": "Md. Mahidul Islam Mahir",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "mahidulmahir759@gmail.com",
+        "facebook": "#",
+        "linkedIn": "https://www.linkedin.com/in/mahidul-islam-mahir"
+      },
+
+      {
+        "name": "Shihab Ahmed",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "ahemed2019029@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Moammed Nurul Islam Sadi",
+        "role": "Junior Executive of Instructors",
+        "imgUrl": "",
+        "email": "islam2019024@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Foyez Ahmed",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "ahmmed2019025@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Taiba Jannat",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "zannat2019057@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md Sajjad Hossain",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "hossain2019017@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md Muzahidul Islam",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "islam2019044@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Asif Iqbal Hridoy",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "hridoy2019036@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Arpan Mukut Mony",
+        "role": "Junior Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "moni2019022@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Shantonu Roy",
+        "role": "Junior Executive of Press & Publication",
+        "imgUrl": "",
+        "email": "ray2019042@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Shiddhartha Dhar",
+        "role": "Junior Executive of Press & Publication",
+        "imgUrl": "",
+        "email": "dhar2019055@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Asad Mahmud Surid",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "surid2019035@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Rofiqul Islam Robin",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "islam2019019@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Sohana Akter",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "akter2019027@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Mahmudul Hasan Shimanto",
+        "role": "Junior Executive of Event Management",
+        "imgUrl": "",
+        "email": "shimanto2019039@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Md Mahady Hasan Mintu",
+        "role": "General Executive of Instructors",
+        "imgUrl": "",
+        "email": "mintu2119020@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Robiul Islam",
+        "role": "General Executive of Instructors",
+        "imgUrl": "",
+        "email": "islam2119024@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Arafat Anan Rohit",
+        "role": "General Executive of Instructors",
+        "imgUrl": "",
+        "email": "rohit2119036@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Tarbin Leen Rozario",
+        "role": "General Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "rozario2119028@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Naim Islam",
+        "role": "General Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "islam2119040@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Md Piash Alam",
+        "role": "General Executive of IT & Resources",
+        "imgUrl": "",
+        "email": "alam2119055@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Rhydita Farnaz",
+        "role": "General Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "farnaz2119041@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Zannatul Rifat",
+        "role": "General Executive of Communication & Talent Management",
+        "imgUrl": "",
+        "email": "rifat2119009@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+      {
+        "name": "Sabah Musarat Poushi",
+        "role": "General Executive of Communicatio And Talent Management",
+        "imgUrl": "",
+        "email": "poushi2119014@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Ananna Krishna Roy",
+        "role": "General Executive of Event Management",
+        "imgUrl": "",
+        "email": "roy2119006@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Shakil Ahmed Bijoy",
+        "role": "General Executive of Event Management",
+        "imgUrl": "",
+        "email": "bijoy2119025@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      },
+
+      {
+        "name": "Rayhan Uzzaman Tonmoy",
+        "role": "General Executive of Event Management",
+        "imgUrl": "",
+        "email": "tonmoy1919005@stud.kuet.ac.bd",
+        "facebook": "#",
+        "linkedIn": "#"
+      }
+    ]
+  }
+]
